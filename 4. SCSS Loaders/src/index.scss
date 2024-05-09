@@ -1,0 +1,10 @@
+#header {
+  font-family: sans-serif;
+  color: rgb(80, 175, 231);
+  text-decoration: underline;
+}
+
+:global(.button) {
+  background-color: rgb(30, 215, 200);
+  color: #fff;
+}
